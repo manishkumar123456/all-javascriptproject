@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 button {
 	margin: 10px;
 	width: 100px;
@@ -11,4 +12,19 @@ button {
 	display: inline-block;
 	text-align: center;
 }
+=======
+button {
+	margin: 10px;
+	width: 100px;
+	height: 80px;
+	background-color: #77d3fa;
+	padding: 1px 30px;
+	border-radius: 8px;
+	color: #150515;
+	text-decoration: none;
+	border: 2px solid #2acd1c;
+	display: inline-block;
+	text-align: center;
+}
+>>>>>>> 9845c67b2b6d881f7b947f4892a813bf2cc9f4b0
   
